@@ -1,2 +1,2 @@
 SELECT hello
-FROM world
+FROM world;
